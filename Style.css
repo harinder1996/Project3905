@@ -1,0 +1,21 @@
+
+body {
+  margin: 0;
+  background-repeat: no-repeat;
+  background-size: contain;
+  
+}
+
+img {
+display: block;
+margin: auto;
+height: 50%;
+width: 74%;
+}
+
+#logo1{
+display: block;
+margin: auto;
+height: 50%;
+width: 33%;
+}
